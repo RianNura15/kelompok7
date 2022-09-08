@@ -72,7 +72,7 @@
                            <div class="check-box"></div>
                         </div>
                         <a href="#">Contact company</a>
-                        <p><img src="images/report-icon.jpg" alt="" />Report this user</p>
+                        
                      </div>
                   </div>
                </div>
@@ -81,19 +81,18 @@
                      <div class="panel with-nav-tabs panel-default">
                         <div class="panel-heading clearfix">
                            <ul class="nav nav-tabs pull-left">
-                              <li class="active"><a href="#tab1default" data-toggle="tab">Products <span>321</span></a></li>
-                              <li><a href="#tab2default" data-toggle="tab">About</a></li>
-                              <li><a href="#tab3default" data-toggle="tab">Contact</a></li>
+                              <li class="active"><a href="#tab1default" data-toggle="tab">Products</a></li>
+                              <li class=""><a href="#tab2default" data-toggle="tab">About</a></li>
+                              <li class=""><a href="#tab3default" data-toggle="tab">Contact</a></li>
                            </ul>
                            <ul class="nav nav-tabs pull-right right-t">
                               <li class="dropdown">
                                  <a href="#" data-toggle="dropdown">Sort <span class="caret"></span></a>
                                  <ul class="dropdown-menu" role="menu">
-                                    <li><a href="#tab4default" data-toggle="tab">Default 4</a></li>
+                                    <li><a href="#" data-toggle="tab">Kode</a></li>
+                                    <li><a href="#" data-toggle="tab">Harga</a></li>
+                                    <li><a href="#" data-toggle="tab">jenis</a></li>
                                  </ul>
-                              </li>
-                              <li><a href="#tab5default" data-toggle="tab"><i class="fa fa-sliders" aria-hidden="true"></i> Refine</a></li>
-                           </ul>
                         </div>
                         <div class="panel-body">
                            <div class="tab-content">
@@ -350,9 +349,10 @@
                                     <p>We took it upon ourselves to change that. We developed a burning desire to create something to bridge the chasms between businesses across country and continent. So, with a goal in mind, a skilled team at hand, Chamb sprung forth: the website that helps discover and build profitable long-lasting networks amongst businesses around the world.</p>
                                  </div>
                               </div>
-                              <div class="tab-pane fade" id="tab3default">Default 3</div>
-                              <div class="tab-pane fade" id="tab4default">Default 4</div>
-                              <div class="tab-pane fade" id="tab5default">Default 5</div>
+                              <div class="tab-pane fade" id="tab3default"></div>
+                              <div class="contact-box">
+                                  <p>Coming Soon</p>
+                                 </div>
                            </div>
                         </div>
                      </div>

@@ -38,8 +38,8 @@
                         <div class="nav-b hidden-xs">
                            <div class="nav-box">
                               <ul>
-                                 <li><a href="howitworks.html">How it works</a></li>
-                                 <li><a href="about-us.html">Chamb for Business</a></li>
+                                 <li><a href="/howitwork">How it works</a></li>
+                                 <li><a href="/about">Chamb for Business</a></li>
                               </ul>
                            </div>
                         </div>

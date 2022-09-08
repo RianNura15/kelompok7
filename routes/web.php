@@ -27,3 +27,4 @@ Route::get('/comingsoon', [PageController::class, 'comingsoon']);
 Route::get('/howitwork', [PageController::class, 'howitwork']);
 Route::get('/pricing', [PageController::class, 'pricing']);
 Route::get('/product', [PageController::class, 'product']);
+Route::get('/product', [PageController::class, 'product']);

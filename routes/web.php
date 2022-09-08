@@ -15,7 +15,7 @@ use App\Http\Controllers\PageController;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return  'Kelompok7';
 });
 
 Route::get('/home', [PageController::class, 'index']);
